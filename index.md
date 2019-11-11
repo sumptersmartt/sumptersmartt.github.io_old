@@ -5,7 +5,7 @@ title: Home
 
 ## Welcome to DadOps
 
-You can use the [editor on GitHub](https://github.com/sumptersmartt/sumptersmartt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Pretty soon I'll add some actual content here. For now it's just a framework as I get everything set up how I want.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
