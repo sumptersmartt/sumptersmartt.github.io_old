@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Welcome to GitHub Pages
+## Welcome to DadOps
 
 You can use the [editor on GitHub](https://github.com/sumptersmartt/sumptersmartt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
