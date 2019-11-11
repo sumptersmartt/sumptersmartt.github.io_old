@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 google_analytics: UA-151983329-1
 title: DadOps
 description: graphs and bbq and stuff
