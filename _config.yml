@@ -58,14 +58,14 @@ plugins:
 author:
   name   : "Sumpter Smartt"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Just a DevOpsDad trying to shift left or something."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/sumptersmartt"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
