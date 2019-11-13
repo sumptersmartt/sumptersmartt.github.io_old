@@ -2,7 +2,7 @@
 title: "Welcome to DadOps!"
 date: 2019-11-13T15:34:30-04:00
 categories:
-  - blog
+  - dadOps
 tags:
   - dadOps
   - automation
