@@ -119,4 +119,4 @@ analytics:
     anonymize_ip: false # default
 
 header:
-  image: /assets/images/header.png
+  image: /assets/images/header.PNG
