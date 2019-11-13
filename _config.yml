@@ -97,6 +97,8 @@ defaults:
       comments: true
       share: true
       related: true
+      header:
+        image: /assets/images/header.PNG
   # _pages
   - scope:
       path: "_pages"
@@ -118,5 +120,3 @@ analytics:
     tracking_id: "UA-151983329-1"
     anonymize_ip: false # default
 
-header:
-  image: /assets/images/header.PNG
