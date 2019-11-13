@@ -97,8 +97,7 @@ defaults:
       comments: true
       share: true
       related: true
-      header:
-        image: /assets/images/header.PNG
+
   # _pages
   - scope:
       path: "_pages"
@@ -106,7 +105,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+  # all
+  - scope:
+      path: ""
+    values:
+      header:
+        image: /assets/images/header.PNG
+        
 category_archive:
   type: liquid
   path: /categories/
